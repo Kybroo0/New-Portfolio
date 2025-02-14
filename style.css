@@ -1,7 +1,11 @@
 body {
   background-color: #ffffff;
   min-height: 2000px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+  display: flex;
 }
 .jumbotron {
   padding-top: 8rem;
@@ -14,4 +18,8 @@ body {
 
 .jumbotron {
   color: white;
+}
+
+#project {
+  background-color: #0099ff;
 }

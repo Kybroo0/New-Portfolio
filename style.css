@@ -4,26 +4,28 @@ body {
 }
 
 .jumbotron {
-  padding-top: 6px;
-  background-color: rgb(0, 180, 252);
+  padding-top: 70px;
+  margin-top: 50px;
+  background-color: #0099ff;
+  color: white;
 }
 
 #about {
   padding-top: 1rem;
 }
 
-.jumbotron {
-  color: white;
-}
-
 #project {
   background-color: #0099ff;
 }
 
-
 .project2 {
   padding-top: 0.5px;
 }
+
 section {
+  padding-top: 5rem;
+}
+
+.judul-about {
   padding-top: 5rem;
 }

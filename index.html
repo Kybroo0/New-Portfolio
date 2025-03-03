@@ -202,8 +202,7 @@
           .then((response) =>
             // tampilkan tombol kirim,hilangkan tombol loading
 
-            console.log('Success!', response)
-          )
+           // reset form nya            form.reset();
           .catch((error) => console.error('Error!', error.message));
       });
     </script>
